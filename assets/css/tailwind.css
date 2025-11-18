@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Este archivo es el punto de entrada para Tailwind en este proyecto.
+  No agregues CSS personalizado aquí si las reglas del proyecto prohíben estilos fuera de las utilidades de Tailwind.
+  Para que los estilos funcionen, este fichero debe procesarse con la cadena de herramientas de Tailwind configurada en el proyecto.
+*/
